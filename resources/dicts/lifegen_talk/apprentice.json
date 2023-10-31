@@ -2573,24 +2573,31 @@
         ],
         [
             "Good day, y_c, how are you? The sun's out today, StarClan's treating us well.",
-            "Golly, this kind of weather is exactly what I need to be energised for the day! The heat on your back. The wind brushing through your fur. Oh and the smells, fresh air! Way better than the stuffy stench from the camp.",
+            "Golly, this kind of weather is exactly what I need to be energised for the day! The heat on your back. The wind brushing through your fur.",
+            "Oh and the smells, fresh air! Way better than the stuffy stench from the camp.",
             "Oh, the other apprentices are calling for me, damn- I was hoping to have more of a break. But, oh well, that's what's asked of me. That's just the way it is.",
             "[r_a stands off the side gathered with the other apprentices, they call out once more, their fur spiking with irritation as they grow impatient.]",
             "AH! Oh! Yes, yes! I'm coming, I'm coming!",
-            "[t_c bounce to their paws and begin to run in the direction of the other apprentices who twitch their whiskers, their tail fur bristling. The young group meets your gaze and blinks before nodding, some smiling others scowling. t_c runs out and skids to an abrupt stop, the dirt kicking up from under their paws, t_c turns back to you a warm smile on their snout.]",
+            "[t_c bounce to their paws and begin to run in the direction of the other apprentices who twitch their whiskers.]",
+            "[The young group of apprentices meets your gaze and blink before nodding, some smiling others scowling.]",
+            "[t_c runs out and skids to an abrupt stop, the dirt kicking up from under their paws, t_c turns back to you a warm smile on their snout.]",
             "See you later y_c! Byyyeeee!"
         ]
     ],
     "stable_apprentice_2": [
         [
             "Any",
-            "stable",
-            "random_cat"
+            "stable"
         ],
         [
-            "GAH- holy haystacks that hurt, what the heck r_a? This is just a game, not a 'oh let's beat me to a pulp!' [t_c turns around to see you trotting up to them.] Woah, didn't see you there, hello y_c.",
-            "We were just playing, though I more so think they just wanted an excuse to claw me after playing too rough yesterday... Yesterday, is that why you did it? [t_c turn to face their opponent who raises an eyebrow in response.].",
-            "I'm sorry, r_a. I should have known that I was too rough. You're right, this is supposed to be a game, we're playing for fun, it's not supposed to be serious. I should have been softer in our games, I'm sorry that I hurt you. I'm sorry.",
+            "GAH- holy haystacks that hurt, what the heck r_a?!",
+            "This is just a game, not a 'oh let's beat me to a pulp!' [t_c turns around to see you trotting up to them.]",
+            "Woah, didn't see you there, hello y_c.",
+            "We were just playing, though I more so think they just wanted an excuse to claw me after playing too rough yesterday...",
+            "...Yesterday?...",
+            "Yesterday, is that why you did it? [t_c turn to face their opponent who raises an eyebrow in response.].",
+            "I'm sorry, r_a. I should have known that I was too rough on you yesterday.",
+            "You're right, this is supposed to be a game, we're playing for fun, it's not supposed to be serious. I should have been softer in our games, I'm sorry that I hurt you. I'm sorry.",
             "[t_c glances at you before shifting their gaze back to the cat before them.]",
             "I'm sorry, it won't happen again- oof! You want to play again? Okay! Hey y_c, you wanna join in?"
         ]
@@ -2601,7 +2608,9 @@
             "stable"
         ],
         [
-            "[You can see t_c gnawing on an old bone as they sketch in the dirt a rough mapping of the territory and you watch in interest as they use twigs and leaves to act as certain landmarks. They seem absorbed in their work, it's admirable.]"
+            "[You can see t_c gnawing on an old bone as they sketch in the dirt a rough mapping of the territory.]",
+            "[Watching in interest you stare in wonder as you watch them work.]",
+            "[t_c uses twigs and leaves to act as certain landmarks. They seem absorbed in their work, it's admirable.]"
         ]
     ],
     "stable_apprentice_4": [
@@ -2610,8 +2619,9 @@
             "stable"
         ],
         [
-            "[t_c sits comfortably in the clearing, the other apprentices and bundles of kits sit by the side, all listening eagerly to their stories. Stories from the patrol earlier that morning, stories of what they did right and wrong.]",
-            "[They finish off the enchanting tale with a moral lesson, while the apprentices roll their eyes, the kits smile in wonder.]"
+            "[t_c sits comfortably in the clearing, the other apprentices and bundles of kits sit by their side, all listening eagerly to their stories.]",
+            "[Stories from the patrol earlier that morning, stories of what they did right and wrong.]",
+            "[They finish off the enchanting tale with a moral lesson, while the apprentices roll their eyes, the kits smile and nod in understanding.]"
         ]
     ],
     "stable_apprentice_5": [
@@ -2622,7 +2632,8 @@
         [
             "Woah! Hey- hi!",
             "[t_c bends down to look at you, carefully with a tender gentleness they turn your paw over and inspect it.]",
-            "Look at that, your tiny teensy claws, they're so cute and little. But hey, look, your paws are a little rougher, good! That's great! That means that you'll be thick-skinned, you'll serve the clan well! Who knows, maybe I'll be your mentor! That'll be cool!",
+            "Look at that, your tiny teensy claws, they're so cute and little. But hey, look, your paws are a little rougher, good! That's great!",
+            "That means that you'll be thick-skinned, you'll serve the clan well! Who knows, maybe I'll be your mentor! That'll be so cool!",
             "GAH!- What am I doing? What are you doing? You shouldn't be here, you should be in the nursery, here, I got ya', let's get you home."
         ]
     ],
@@ -2649,7 +2660,8 @@
             "adopted_sibling"
         ],
         [
-            "Shhh, shhh, I know the parents aren't here right now- but it's okay, I'm here, and I'm not going anywhere. [t_c curls their tail around you, their warmth washing over you like a calming song that beckoned the peace of mind.]",
+            "Shhh, shhh, I know the parents aren't here right now- but it's okay, I'm here, and I'm not going anywhere.",
+            "[t_c curls their tail around you, their warmth washing over you like a calming song that beckons the peace of mind.]",
             "Go to sleep, go to sleep, shhhh, it's okay."
         ]
     ],
@@ -2671,12 +2683,8 @@
         [
             "Wowza! You should have seen yourself just now, the paw work of those moves! You're amazing! Did you learn that from watching me train?",
             "You did? Cool! Hey, you wanna learn another one?",
-            [
-                "You fumble on your paws copying their movement",
-                "you giggle as t_c guides your strides and strikes. You",
-                "ll be an apprentice soon enough!"
-            ],
-            ""
+            "[You fumble on your paws, copying their movement- you worry they'll judge you but instead they're patient. You both laugh together as t_c guides your strides and strikes.]",
+            "Look at you go! You'll be an apprentice soon enough!"
         ]
     ],
     "stable_apprentice_10": [
@@ -2686,7 +2694,9 @@
         ],
         [
             "Sorry I have to make this quick, but I wanted to drop by and say the way you and m_n handled that dispute at the o_cClan border was well handled, I was very impressed.",
-            "Just watching the way you spoke and controlled the situation, at this rate, you'll be a warrior in no time! Oh- [t_c looks back to see their mentor near the entrance gesturing for them to go and train, t_c looks back at you and smiles] See you later, y_c. Keep up the good work."
+            "Just watching the way you spoke and controlled the situation, at this rate, you'll be a warrior in no time! Oh-",
+            "[t_c looks back to see their mentor near the entrance gesturing for them to go and train, t_c looks back at you and smiles]",
+            "See you later, y_c. Keep up the good work."
         ]
     ],
     "stable_apprentice_11": [
@@ -2696,7 +2706,9 @@
         ],
         [
             "Wake up, stretch, groom fur, have a meal, talk with friends, get up, go to mentor- Train! Train! Train!",
-            "I'm sorry, I don't mean to complain but by starclan I am tired. Everyday feels the same, at least I get to see you, you make it interesting at the very least- I no wait, I didn't mean any offence. I'm sorry y_c, really, you're a good friend. Truly."
+            "I'm sorry, I don't mean to complain but by starclan I am tired!",
+            "Everyday feels the same, at least I get to see you, you make it interesting at the very least- I no wait-",
+            "I didn't mean any offence! I'm sorry y_c, really, you're a good friend. Truly."
         ]
     ],
     "stable_apprentice_12": [
@@ -2706,8 +2718,8 @@
             "stable"
         ],
         [
-            "Sorry I have to make this quick, but I wanted to drop by and say the way you and m_n handled that dispute at the o_cClan border was well handled, I was very impressed.",
-            "Just watching the way you spoke and controlled the situation, at this rate, you'll be a warrior in no time! Oh- [t_c looks back to see their mentor tm_n near the entrance gesturing for them to go and train, t_c looks back at you and smiles] See you later, y_c. Keep up the good work."
+            "Good tidings my fellow feline companion! May the stars light your path, O' great one!",
+            "Pfft! Hahahaha! Wow, you should have seen your face! I know I'm not the smartest cat, but like you, I am also capable of big words!"
         ]
     ],
     "stable_apprentice_13": [
@@ -2725,7 +2737,8 @@
             "stable"
         ],
         [
-            "Hey, y_c, how are you doing? Looks like you've had fun. [t_c points their paw at your fur, bringing your attention to herbs that cling to your hair. You attempt to shake it off but as you expected, their stuck.]",
+            "Hey, y_c, how are you doing? Looks like you've had fun.",
+            "[t_c points their paw at your fur, bringing your attention to herbs that cling to your pelt. You attempt to shake it off but as you expected- it's stuck.]",
             "Here, let me help you."
         ]
     ],
@@ -2735,10 +2748,14 @@
             "stable"
         ],
         [
-            "y_c, I hope you understand just how important you are to the clan. A medicine cat apprentice, that's even more work then all us warrior apprentices combined.",
-            "Not only do you need to learn all of these herbs, learn to communicate with our ancestors, stick strong to your morals, have a clear mind even in the worst situations but you also need to be accepting of the hardships it brings.",
+            "y_c, I hope you understand just how important you are to the clan.",
+            "A medicine cat apprentice, that's even more work then all us warrior apprentices combined.",
+            "Not only do you need to learn all of these herbs, learn to communicate with our ancestors, stick strong to your morals, have a clear mind even in the worst situations...",
+            "But you also need to be accepting of the hardships it brings.",
             "I don't know how you do it. I don't know how you avoid panicking. How you're able to stay calm when everyone else around you isn't. I wish I were as strong as you.",
-            "[You rest your paw on their shoulder and give them words of encouragement, reminding them that their future as a warrior is just as important. That without their skills of hunting, fighting and speaking, the clan wouldn't be a place of safety and security. Their ears lift at the sound of your words. A small smile on their face.]"
+            "[You rest your paw on their shoulder and give them words of encouragement, reminding them that their future as a warrior is just as important.]"
+            "[Without their skills of hunting, fighting and speaking, the clan wouldn't be a place of safety and security.]",
+            "[Their ears lift at the sound of your words. A small smile on their face.]"
         ]
     ],
     "stable_apprentice_16": [
@@ -2748,8 +2765,11 @@
         ],
         [
             "y_c, I wanted to ask you something, how do you get it right? I mean, all these herbs? How do you do it?",
-            "[You begin to explain the complexity of being a medicine cat apprentice. The combinations of herbs and what to do when someone has a broken leg. You attempt to describe the process of wrapping cobwebs, they stare blankly for a moment. You open your mouth to speak again only for them to run off somewhere. You shift your paws awkwardly, maybe they ran off?]",
-            "y_c! Hey, I found these while out on patrol, can you show me how you do it please?"
+            "[You begin to explain the complexity of being a medicine cat apprentice.]",
+            "[The combinations of herbs and what to do when someone has a broken leg. A stuff nose- or the process to test for greencough.]",
+            "[You attempt to describe the process of wrapping cobwebs, they stare blankly for a moment. You open your mouth to speak again only for them to run off somewhere.]",
+            "[You shift your paws awkwardly, maybe they ran off? Did you make them feel off? Were they bored? You're not that boring... right?]",
+            "y_c! Hey, I found these while out on patrol, [t_c drops a tangle of cobwebs at your paws]. Can you show me how you do it please?"
         ]
     ],
     "stable_apprentice_17": [
@@ -2767,9 +2787,13 @@
             "stable"
         ],
         [
-            "Excuse me, y_c, could you check something for me? I got my paw jammed under a couple of roots while I was digging for a mouse. It hurts a little, but I don't think it's anything too serious but tm_n told me to get it checked out. So sorry for the trouble.",
-            "[you shake your head and ask to see their paw, they show you and let you turn it over in inspection. It doesn't look too bad, maybe a little bruised and matted fur. You tell them there's no issue, just a scratch. You instruct them to stay out of trouble and keep their weight off the paw for the rest of the day after they give it a light wash of water.]",
-            "Thank you, will do. I'll come back if it gets worse or begins to smell. Cheers y_c, have a wonderful day- ah also, before I forget, you're doing great at what you do. Don't let anyone tell you otherwise."
+            "Excuse me, y_c, could you check something for me? I got my paw jammed under a couple of roots while I was digging for a mouse.",
+            "It hurts a little, but I don't think it's anything too serious but tm_n told me to get it checked out. So sorry for the trouble.",
+            "[You shake your head and ask to see their paw, they show you and let you turn it over in inspection.]",
+            "[It doesn't look too bad, maybe a little bruised and some matted fur. You tell them there's no issue, just a scratch.]",
+            "[You instruct them to stay out of trouble and keep their weight off the paw for the rest of the day after they give it a light wash of water.]",
+            "Thank you, will do. I'll come back if it gets worse or begins to smell. Cheers y_c, have a wonderful day-",
+            "Ah also, before I forget, you're doing great at what you do. Don't let anyone tell you otherwise."
         ]
     ],
     "stable_apprentice_19": [
@@ -2788,8 +2812,10 @@
             "stable"
         ],
         [
-            "Hello there, master of words! Gosh I wish I was like you, everytime I open my mouth it sounds like mushed up fox-dung sprinkled with mouse tails. You have such a way of words- umm, are you okay why are you staring at me? y_c?...",
-            "[You blink a couple of times, trying to comprehend what they just said, fox-dung sprinkled with... what? You're stunned, never did you think that was possible for someone to say such a thing, yet t_c stands right before you. You shake your head and can only murmur one word, 'pardon?' ]"
+            "Hello there, master of words! Gosh I wish I was like you, everytime I open my mouth it sounds like mushed up fox-dung sprinkled with mouse tails.",
+            "You have such a way of words- umm, are you okay why are you staring at me? y_c?...",
+            "[You blink a couple of times, trying to comprehend what they just said, fox-dung sprinkled with... what?]",
+            "[You're stunned, never did you think that was possible for someone to say such a thing, yet t_c stands right before you. You shake your head and can only murmur one word, 'pardon?' ]"
         ]
     ],
     "stable_apprentice_21": [
@@ -2798,7 +2824,7 @@
             "stable"
         ],
         [
-            "y_c you look exhausted... Was that last session between those two that draining. Haystacks, mates can be so- messy sometimes. Imagine that? Hey, chin up, let's get you something to eat."
+            "y_c you look exhausted... Was that last session between those two that draining? Haystacks, mates can be so- messy sometimes. Imagine that? Hey, chin up, let's get you something to eat."
         ]
     ],
     "stable_apprentice_22": [
@@ -2807,10 +2833,14 @@
             "stable"
         ],
         [
-            "[You and t_c sit under the shade in the comfort of camp. They speak softly and you listen as they describe their troubles and troubles during this time. Mentioning how they had a fight with their mentor which ended up upsetting a fellow apprentice.]",
+            "[You and t_c sit under the shade in the comfort of camp. They speak softly and you listen as they describe their troubles during this time.]",
+            "[Mentioning how they had a fight with their mentor which ended up upsetting a fellow apprentice.]",
             "Anyways, thank you for listening, y_c, what should I do? Any ideas?",
-            "[You assure them it was a simple mistake and that it's good they recognise that behaviour. You make it clear that they need to apologise and that starclan will be by their side. Your words bring them comfort as they listen. Purring at your words, they thank you and move to do the right thing.]",
-            "[A warmth fills your chest, suddenly you find yourself feeling a lot of pride being trusted by your clanmates to be spoken to when they're at their lowest. It's certainly not a job for the faint of heart, but by Starclan is it rewarding.]"
+            "[You assure them it was a simple mistake and that it's good they recognise that behaviour.]",
+            "[You make it clear that they need to apologise and that Starclan will be by their side.]",
+            "[Your words bring them comfort as they listen. Purring at your words, they thank you and move to do the right thing.]",
+            "[A warmth fills your chest, suddenly you find yourself feeling a lot of pride being trusted by your clanmates to be spoken to when they're at their lowest.]",
+            "[It's certainly not a job for the faint of heart, but by Starclan is it rewarding.]"
         ]
     ],
     "stable_apprentice_23": [
@@ -2819,7 +2849,8 @@
             "stable"
         ],
         [
-            "Take good care of them y_c, one day they'll grow up big and strong, they will be this clan's future. Who knows, maybe I'll be a mentor? Maybe even you? Think of that, I just can't wait!"
+            "Take good care of them y_c, one day they'll grow up big and strong, they will be this clan's future.",
+            "Who knows, maybe I'll be their mentor? Maybe even you? Think of that, I just can't wait!"
         ]
     ],
     "stable_apprentice_24": [
@@ -2828,10 +2859,14 @@
             "stable"
         ],
         [
-            "[Your paws ache and all you can taste is bitter bark and foil, fresh dirt. Yet, it's worth it because if it wasn't for these materials, the kits wouldn't have their little play things. These strange contractions were made by you and m_n. They were strange but cute, almost fascinating as they imitated mice and shrews.]",
-            "[As you make your way to the nursery, you look in and see t_c rolling around, playing with the kits. You smile softly and waltz in, commenting on how you weren't expecting them today. They look up at you and smile as the kittens crawl all over them.]",
+            "[Your paws ache and all you can taste is bitter bark, old soil and fresh foul smelling herbs.]",
+            "[Yet, it's worth it because if it wasn't for these materials, the kits wouldn't have their little play things. These strange contractions were made by you and m_n.]",
+            "[They were strange but cute, almost fascinating as they imitated mice and shrews.]",
+            "[As you make your way to the nursery, you look in and see t_c rolling around, playing with the kits.]",
+            "[You smile softly and waltz in, commenting on how you weren't expecting them today. They look up at you and smile as the kittens crawl all over them.]",
             "I was just stopping by, wanted to see them was all. I'm sorry, I should have let you or m_n know I was dropping by. Hey, what's that?",
-            "[You laugh and call the kits over, they begin crowding around you. You and t_c spend the rest of the day playing with the kits and waving around their new play things until the sun set.]"
+            "[You laugh and call the kits over, they begin crowding around you.]",
+            "[You and t_c spend the rest of the day playing with the kits and waving around their new play things until the sun sets.]"
         ]
     ],
     "stable_apprentice_25": [
@@ -2840,20 +2875,27 @@
             "stable"
         ],
         [
-            "I never really thought about it until now, but, y_c, you just seem so happy here in the nursery. I mean, you look like you belong here, that this is your purpose.",
-            "Make sure to keep up that self confidence, because it gives the kits something to look up to. Someone they can be inspired by. I don't know how to describe it but you carry yourself with so much love and pride. It's so... admirable. These kits will grow up to be something great because of you. Raise them well, be the cat I know you can be."
+            "I never really thought about it until now, but, y_c, you just seem so happy here in the nursery.",
+            "I mean, you look like you belong here, that this is your purpose.",
+            "Make sure to keep up that self confidence, because it gives the kits something to look up to.",
+            "Someone they can be inspired by.",
+            "I don't know how to describe it but you carry yourself with so much love and pride. It's so... admirable.",
+            "These kits will grow up to be something great because of you. Raise them well, be the cat I know you can be."
         ]
     ],
     "stable_apprentice_26": [
         [
             "medicine cat",
-            "random_cat",
             "stable"
         ],
         [
-            "[As you're sorting out the herbs, you hear pawsteps at the front of your den, whip around to find t_c and r_c standing behind them looking sheepishly away. You frown slightly, you know what's coming next...]",
-            "Good tidings y_c, gosh, your fur is looking glossy today, absolutely splendid, did you go for a bath recently, because you look fire! [They beam at you, their ears shaking as they realise you weren't buying it.]",
-            "Okay look, yes, r_a did get hurt while we were out on patrol, and to be fair, that was kinda- [r_a stares at them coldly] it was absolutely my fault, could you please take a look at them and help them? I promise I'll do whatever I can to help!"
+            "[As you're sorting out the herbs, you hear pawsteps at the front of your den, you whip around to find t_c and r_a standing behind them looking sheepishly away.]",
+            "[You frown slightly, you know what's coming next...]",
+            "Good tidings y_c, gosh, your fur is looking glossy today, absolutely splendid, did you go for a bath recently, because you look fire!",
+            "[They beam at you, their ears shaking as they realise you weren't buying it.]",
+            "Okay look, yes, r_a did get hurt while we were out on patrol, and to be fair, that was kinda-",
+            "[r_a stares at them coldly]",
+            "It was absolutely my fault! Could you please take a look at them and help them? I promise I'll do whatever I can to help!"
         ]
     ],
     "stable_apprentice_27": [
@@ -2863,7 +2905,8 @@
         ],
         [
             "Woah, look at that... [You pad over beside t_c and sit beside them, staring up at silverpelt.]",
-            "Wonder what's up there, I know our ancestors, but, what else? What other secrets of the past is c_nClan hiding up in the stars, behind those lights? Prophecies? Omens? Other clans? Were we always c_nClan, or someone else long ago?",
+            "Wonder what's up there, I know our ancestors, but, what else? What other secrets of the past is c_nClan hiding up in the stars, behind those lights?",
+            "Prophecies? Omens? Other clans? Were we always c_nClan, or someone else long ago?",
             "This might be strange to ask, but can you tell me about the stars? I know as a medicine cat, you can read them, could you teach me? Please?"
         ]
     ],
@@ -2874,7 +2917,9 @@
         ],
         [
             "Knock, knock, anyone home? [t_c walks into the medicine den, a four leaf clover in their mouth. They walk up to your nest and place it down, you tilt your head as you watch in curiosity.]",
-            "Found it while I was out hunting this morning, it reminded me of you. The other cats on patrol didn't think it was interesting, but I knew you would. I wonder if it's a sign from Starclan, huh... Either way, I'll leave you be. I'll drop by later with some prey for you and the other medicine cats. You'll need it after a hard day's work.",
+            "Found it while I was out hunting this morning, it reminded me of you.",
+            "The other cats on patrol didn't think it was interesting, but I knew you would. I wonder if it's a sign from Starclan, huh... Either way, I'll leave you be.",
+            "I'll drop by later with some prey for you and the other medicine cats. You'll need it after a hard day's work.",
             "[You bid them farewell and smile at the clover placed in your den. You really needed that, such a small act of kindness can mean the world.]"
         ]
     ],
@@ -2884,7 +2929,8 @@
             "stable"
         ],
         [
-            "I cannot believe that I was that small once, can you? Starclan, you were even that small. [t_c is laying down, sprawled out at the foot of the den playing with the kits.]",
+            "I cannot believe that I was that small once, can you? Starclan, you were even that small.",
+            "[t_c is laying down, sprawled out at the foot of the den playing with the kits.]",
             "... Yeah you're right, y_c, they won't be this small forever. They'll grow up big and strong like me, hopefully kind and caring like you.",
             "Sorry if that was sappy, hey are you blushing! Awww, y_c, you're still a kitten on the inside!"
         ]
@@ -2897,10 +2943,14 @@
         [
             "[You frantically look around camp to find assistance, your fur on end. t_c spots you in your panic and runs up to you.",
             "y_c, are you okay? You looked stressed, what's wrong?",
-            "[Before you can answer, the nursery begins to rumble as kits fly out the den and crash into your back. Their tiny paws cling to your fur and you hold your tongue as you feel some clamp on your tail. Their chatter fills your ears like a kittypet's ringing bell.]",
-            "[t_c, looks you up and down and attempts to smile, you dismiss it and beg for them to look after the kits. You explain that you needed to get something to drink and eat, you desperately needed a break. t_c laughs and nods.]",
-            "Haha, it's okay, I get it. You go have a break, don't come back until moon rise. Seriously, I can handle it from here, you look so tired and I'm sure your friends would love to spend some time with you. Enjoy yourself, now- [They turn to face the kittens who watch them with beady black eyes.]",
-            "Who wants to play hide and seek within the camp? I'll hunt, [they toss their paws over their eyes] 1, 2, 3- [The kits squeal and run off to hide.]"
+            "[Before you can answer, the nursery begins to rumble as kits fly out the den and crash into your back.]",
+            "[Their tiny paws cling to your fur and you hold your tongue as you feel some clamp on your tail. Their chatter fills your ears like a kittypet's ringing bell.]",
+            "[t_c, looks you up and down and attempts to smile, you dismiss it and beg for them to look after the kits.]",
+            "[You explain that you needed to get something to drink and eat, you desperately needed a break. t_c laughs and nods.]",
+            "Haha, it's okay, I get it. You go have a break, don't come back until moon rise.",
+            "Seriously, I can handle it from here, you look so tired and I'm sure your friends would love to spend some time with you. Enjoy yourself.",
+            "Now~ [They turn to face the kittens who watch them with beady black eyes.]",
+            "Who wants to play hide and seek within the camp? I'll seek, [they toss their paws over their eyes] 1, 2, 3- [The kits squeal and run off to hide.]"
         ]
     ],
     "stable_apprentice_31": [
@@ -2909,9 +2959,12 @@
             "stable"
         ],
         [
-            "Gah! You have no idea how much I- dislike o_cClan, I mean, just who do they think they are? The hunting ground in the west belongs to c_nClan, not their stinky hides.",
-            "[You frown, yes, you're aware that the discussion with the opposing clan led to this... Unfortunately, when you approached the clan and their mediator, it didn't go too smoothly, because you agree with t_c, the land rightfully belongs to c_nClan, not them.]",
-            "I'm sorry, y_c, I didn't mean to make you mad or upset, it just gets on my nerves. But I trust that my clanmates will be able to stand up for what we believe in. We can earn that territory back, I know it! And y_c, you'll be there to support us, right?"
+            "Gah! You have no idea how much I- dislike o_cClan, I mean, just who do they think they are?",
+            "The hunting ground in the west belongs to c_nClan, not their stinky hides.",
+            "[You frown, yes, you're aware that the discussion with the opposing clan led to this...]",
+            "[Unfortunately, when you approached the clan and their mediator, it didn't go too smoothly. You absolutly agree with t_c, the land rightfully belongs to c_nClan, not them.]",
+            "I'm sorry, y_c, I didn't mean to make you mad or upset, it just gets on my nerves. But I trust that my clanmates will be able to stand up for what we believe in.",
+            "We can earn that territory back, I know it! And y_c, you'll be there to support us, right?"
         ]
     ],
     "stable_apprentice_32": [
@@ -2920,12 +2973,20 @@
             "stable"
         ],
         [
-            "[tm_n wasn't available for training today for t_c, you offered a paw in support. Now, at sunhigh, where the breeze is light and the smells are clear you find yourself walking with the apprentice, guided by their judgement. You may be a mediator, but you know the territory well, probably better than most. Yet this was a good chance for t_c to test their knowledge, as of so far, they were doing well.]",
+            "[tm_n wasn't available for training today for t_c, you offered a paw in support. Now, at sunhigh, where the breeze is light and the smells are clear.]",
+            "[You find yourself walking with the apprentice, guided by their judgement.]",
+            "[You may be a mediator, but you know the territory well, probably better than most. Yet this was a good chance for t_c to test their knowledge, as of so far, they were doing well.]",
             "[The territory is vast and beautiful, a sense of pride swells deep in your chest. t_c trots forwards, their head held high with twitching whiskers. They turn to you.]",
-            "y_c thanks for coming with me, I was worried I wouldn't be able to go out today. It's good practice, navigating the land and its structure. I'm pretty sure we're close to o_cClan territory. Yeah, we definitely are, there's the border.",
-            "[You both press forward, only to stop part way- a stench is in the air, there's a cat not from your clan... Here, and they're close...]",
-            "y_c wait, someone's here. [You freeze and watch as two opposing warriors stalk along the edge of the border, just nearly crossing over the territory, t_c begins to hiss. You study them, you blink a couple of times before you begin to smile. You know these cats! You meow a greeting, they immediately begin to relax as they recognise you.",
-            "Huh? Do you know them? Oh, well I'm sorry for my behaviour... [t_c quickly apologises and greets the warriors, all while stunned as you talk to them like you would a clanmate. You swear you can see a spark in their eyes as they gain a new perspective and respect for you as the clan's mediator.]"
+            "y_c thanks for coming with me, I was worried I wouldn't be able to go out today.",
+            "It's good practice, navigating the land and its structure. I'm pretty sure we're close to o_cClan territory. Yeah, we definitely are, there's the border.",
+            "[You both press forward, only to stop part way- a stench is in the air, there's a cat not from your clan here, and they're close...]",
+            "y_c wait, someone's here.",
+            "[You freeze and watch as two opposing warriors stalk along the edge of the border, just nearly crossing over the territory, t_c begins to hiss.]",
+            "[You study the warriors, you blink a couple of times before you begin to smile. You know these cats!]",
+            "[You meow a greeting, they immediately begin to relax as they recognise you.]",
+            "Huh? Do you know them? Oh, well I'm sorry for my behaviour...",
+            "[t_c quickly apologises and greets the warriors, all while stunned as you talk to them like you would a clanmate.]",
+            "[You swear you can see a spark in their eyes as they gain a new perspective and respect for you as the clan's mediator.]"
         ]
     ],
     "stable_apprentice_33": [
@@ -2935,8 +2996,10 @@
         ],
         [
             "Good morning, y_c, how are you today? Oh- you wanted to speak with me? What about?",
-            "[You ask t_c about the recent gathering, how you saw them talking with a random o_cClan apprentice. You describe the two seemed close, you ask them what's going on between them.]",
-            "We're friends, pretty good friends, I like to see how they're doing every once and a while. Not to worry, they're not a threat to c_nClan. Even as an apprentice, I know where my loyalties lie and I will never put this clan and my clanmates at risk."
+            "[You ask t_c about the recent gathering, how you saw them talking with a random o_cClan apprentice.]",
+            "[You describe the two seemed close, you ask them what's going on between them.]",
+            "We're friends, pretty good friends, I like to see how they're doing every once and a while.",
+            "Not to worry, they're not a threat to c_nClan. Even as an apprentice, I know where my loyalties lie and I will never put this clan and my clanmates at risk."
         ]
     ],
     "stable_apprentice_34": [
@@ -2945,9 +3008,13 @@
             "stable"
         ],
         [
-            "y_c I'm sorry if this is a weird question to ask but, how did you become deputy? What did you have to do? How hard did you work, why did l_n choose you? Why not another warrior- I uh, no I didn't mean any offence by that!",
-            "[You shake your head, you're not offended at all. You explain everything you've done to get to where you are now, the hardships, the pain and the loss. You also think fondly of your achievements and acts of bravery, the protection of your clanmates. t_c stares in wonder as you tell stories of the past.]",
-            "Woah, I hope I grow up to be a warrior just like you."
+            "y_c I'm sorry if this is a weird question to ask but, how did you become deputy?",
+            "What did you have to do? How hard did you work, why did l_n choose you? Why not another warrior- I uh, no I didn't mean any offence by that!",
+            "[You shake your head, you're not offended at all. You explain everything you've done to get to where you are now, the hardships, the pain and the loss.]",
+            "[You also speak fondly of your achievements and acts of bravery, the protection of your clanmates. t_c stares in wonder as you tell stories of the past.]",
+            "Woah, when I grow up, I hope I get to be at least half the warrior you are.",
+            "[You smile and tell them that they are well and truly on their way. Who knows, maybe they'll be a legend of greatness!]",
+            "With you there to guide me, you bet."
         ]
     ],
     "stable_apprentice_35": [
@@ -2957,8 +3024,11 @@
             "stable"
         ],
         [
-            "Good evening y_c, you look like you've had an interesting day. You've been out with a patrol of your best warriors today haven't you? I think it was r_d's idea to have you lot do a 'group bonding' day. I hope you had fun, you look like you enjoyed it.",
-            "I've finished hunting for today, been out with my mentor and the other apprentices. We caught some prey and it's been added to the fresh kill pile, so you don't have to worry. Would you like me to bring you some for you later?",
+            "Good evening y_c, you look like you've had an interesting day.",
+            "You've been out with a patrol of your best warriors today haven't you? I think it was r_c's idea to have you lot do a 'group bonding' day.",
+            "I hope you had fun, you look like you enjoyed it!",
+            "I've finished hunting for today, been out with my mentor and the other apprentices. We caught some prey and it's been added to the fresh kill pile, so you don't have to worry.",
+            "Would you like me to bring you some for you later?",
             "Ok! I'll see you soon, just call me when you're ready."
         ]
     ],

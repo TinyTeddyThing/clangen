@@ -7232,7 +7232,10 @@
         [
             "I cannot believe it! Oh, y_c, you-re- you're... We're going to be parents, you and me, PARENTS! Can you believe it?!",
             "[t_c pulls you into a fierce hug, and you return it, both of smiling gleefully.]",
-            "Can you imagine it? Little fluffs of fur that look like you and me. What will we name them? What will they be like? I have some ideas- oh, not for names sorry honey, for what we should do. Do you think the queens will let me decorate your nest in the nursery? Put some feathers in the moss, pretty flowers around the nest- the nest... You'll be staying in the nursery!",
+            "Can you imagine it? Little fluffs of fur that look like you and me. What will we name them? What will they be like? I have some ideas-",
+            "Oh! Not for names sorry honey, for what we should do. Do you think the queens will let me decorate your nest in the nursery?",
+            "Put some feathers in the moss, pretty flowers around the nest- the nest...",
+            "You'll be staying in the nursery!",
             "I'll ask the queens if I can stay with you, I'm sure they won't mind- no matter what, I want to be by your side. My goodness y_c, I can't wait."
         ]
     ],
@@ -7244,8 +7247,12 @@
             "stable"
         ],
         [
-            "Good morning love, are you feeling better today? Goodness, you're looking a little tired. But, it'll be so worth it, I hope one of our little puffballs has your eyes.",
-            "You'll be a fantastic parent, y_c, my dear they'll love you so much. Wait here, I'll grab you something to eat, I think the hunting patrol just got back, I'll be a minute, love. [You watch as t_c slips out of the den, you watch as they carefully pick out your favourite prey from the freshkill pile and make their way back to you. They waltz into the den and lay down next to you.]",
+            "Good morning love, are you feeling better today? Goodness, you're looking a little tired.",
+            "But, it'll be so worth it, I hope one of our little puffballs has your eyes.",
+            "You'll be a fantastic parent, y_c, my dear they'll love you so much. Wait here, I'll grab you something to eat, I think the hunting patrol just got back.",
+            "I'll be a minute, love.",
+            "[You watch as t_c slips out of the den, you watch as they carefully pick out your favourite prey from the freshkill pile and make their way back to you.]",
+            "[They waltz into the den and lay down next to you.]",
             "[You slowly begin to eat the prey, tiredness weighing you down. You smile as t_c grooms your shoulder. The two of you will be perfect, you're certain of it.]"
         ]
     ],
@@ -7257,9 +7264,12 @@
             "stable"
         ],
         [
-            "y_c, looking sharp as always love, love the way you've groomed your fur today. I wonder if you'll teach out kittens that technique, maybe we'll pass down it down through the family. We'll look like our own little clan hehe. Enemy warriors will see us and our perfectly groomed pelts from miles away.",
+            "y_c, looking sharp as always love, love the way you've groomed your fur today.",
+            "I wonder if you'll teach out kittens that technique, maybe we'll pass down it down through the family.",
+            "We'll look like our own little clan hehe. Enemy warriors will see us and our perfectly groomed pelts from miles away.",
             "[You laugh, and state that our shadows will stretch beyond the horizon, our groomed pelts will consume the land!]",
-            "PFT- Yes, and we'll take over all the clans, one pelt at a time! Hahaha, I love you dear. I hope our kits have our sense of humour. I'm sure they will... It's only a matter of time."
+            "PFT- Yes, and we'll take over all the clans, one pelt at a time! Hahaha, I love you dear.",
+            "I hope our kits have our sense of humour. I'm sure they will... It's only a matter of time."
         ]
     ],
     "stable_mate_4": [
@@ -7271,8 +7281,11 @@
         ],
         [
             "I'm so sorry dear that I can't go for our evening walks tonight- I just feel so sore... I love these little furballs, well I will when I meet them.",
-            "y_c, can you imagine the whole family going on walks. It's a nice thought, though they'll probably have to be at least a few moons old... Maybe when they're really young we can put them on our backs and they can see the territory that way.",
-            "They'll giggle and squeal with laughter and you will look so dashing during the sunset. I will compliment my wonderful, beautiful and ever so perfect mate how strong they are and how loving they are to the kits. Don't shake your head at me y_c, I can see it so perfectly~ You'll be the best parent in the whole clan, love."
+            "y_c, can you imagine the whole family going on walks. It's a nice thought, though they'll probably have to be at least a few moons old...",
+            "Maybe when they're really young we can put them on our backs and they can see the territory that way.",
+            "They'll giggle and squeal with laughter and you will look so dashing during the sunset.",
+            "I will compliment my wonderful, beautiful and ever so perfect mate how strong they are and how loving they are to the kits.",
+            "Don't shake your head at me y_c, I can see it so perfectly~ You'll be the best parent in the whole clan, love."
         ]
     ],
     "stable_mate_5": [
@@ -7299,7 +7312,8 @@
             "stable"
         ],
         [
-            "[You shuffle inside the den, your nose poking through the entrance. You see t_c curled up in a nest, their breathing is choppy and their nose is scrunched up. It pains you to see them like this... You move inside swiftly and rest beside them, your tail curling around them.]",
+            "[You shuffle inside the den, your nose poking through the entrance. You see t_c curled up in a nest, their breathing is choppy and their nose is scrunched up.]",
+            "[It pains you to see them like this... You move inside swiftly and rest beside them, your tail curling around them.]",
             "Hmm... y_c, is that you?...........Love, you shouldn't be here........... [t_c's eyes are still shut as they whisper.]",
             "[You hold them tighter and watch as they smile.]",
             "... Okay... I love you, y_c... You can stay here, even if it's only for a little while..."
@@ -7314,7 +7328,8 @@
             "stable"
         ],
         [
-            "Love, darling- y_c, please, please honey calm down- it's not that bad... Really, I'm in good paws, though I do appreciate your concern, I assure you, I'm fi-",
+            "Love, darling- y_c, please, please honey calm down- it's not that bad... Really, I'm in good paws!",
+            "I do appreciate your concern, I assure you, I'm fi-",
             "[They wince and shutter slightly, you move to catch them.]",
             "Oh love, what would I do without you?"
         ]
@@ -7328,7 +7343,9 @@
             "stable"
         ],
         [
-            "Love, you should stop staring at the ceiling and try to get some rest, I know it's hard but you'll feel better. Starclan's watching over you and most importantly, I'm watching over you. It won't be long before you return to your duties, but for now my dear, get some rest."
+            "Love, you should stop staring at the ceiling and try to get some rest, I know it's hard but you'll feel better.",
+            "Starclan's watching over you and most importantly, I'm watching over you. It won't be long before you return to your duties.",
+            "But for now my dear, get some rest."
         ]
     ],
     "stable_mate_9": [
@@ -7340,10 +7357,16 @@
             "stable"
         ],
         [
-            "[You've hidden yourself away in your den, the loss of d_c has torn you apart. Your claws cling to the moss of your nest, you want to scream and shout- but yet your voice wavers... You can't speak, you feel- broken...]",
+            "[You've hidden yourself away in your den, the loss of d_c has torn you apart.]",
+            "[Your claws cling to the moss of your nest, you want to scream and shout- but yet your voice wavers... You can't speak, you feel- broken...]",
             "Love?",
-            "y_c, my dear... [You glance at t_c and gesture for them to rest beside you, they carefully coil their tail around yours. You both stay silent for a while before t_c speaks again.] I love you, y_c, I love you so much, please- please don't shy away from me, this grief... It's okay to talk. And I'll wait here, and I'll listen when you're ready... For now, it's okay...",
-            "[You press yourself into their fur and begin to sob, t_c gently holds you as you wail. They don't say anything, they don't have to. Just being here, that's enough for you.]"
+            "y_c, my dear...",
+            "[You glance at t_c and gesture for them to rest beside you, they carefully coil their tail around yours.]",
+            "[You both stay silent for a while before t_c speaks again.]",
+            "I love you, y_c, I love you so much, please- please don't shy away from me, this grief... It's okay to talk.",
+            "And I'll wait here, and I'll listen when you're ready... For now, it's okay...",
+            "[You press yourself into their fur and begin to sob, t_c gently holds you as you wail.]",
+            "[They don't say anything, they don't have to. Just being here, that's enough for you.]"
         ]
     ],
     "stable_mate_10": [
@@ -7356,7 +7379,8 @@
         ],
         [
             "I can't believe they're gone... I knew it was to happen someday, but not yet, not like this... It was too soon... d_c, why? Why... Why did you have to go?",
-            "[You rest your head on their shoulder as t_c weeps. You both stand before d_c's grave. The rest of the clan has already left the vigil, leaving the two of you alone. You know t_c prefers to not dive too deeply into these things, but you can tell they're glad you're here.]",
+            "[You rest your head on their shoulder as t_c weeps. You both stand before d_c's grave.]",
+            "[The rest of the clan has already left the vigil, leaving the two of you alone. You know t_c prefers to not dive too deeply into these things, but you can tell they're glad you're here.]",
             "Love, what will I do without d_c?......."
         ]
     ],
@@ -7400,7 +7424,11 @@
             "stable"
         ],
         [
-            "You want to know something, love? Sometimes I question how I fell for a cat like you... I never thought I'd be so lucky, I've always wanted a mate but, I didn't think it was going to be you, nor could I ever imagine how wonderful it would be. You're perfect, I truly don't deserve you... [You quickly press your nose into their cheek, t_c shuts their mouth and begins to purr.] You ruin me, y_c."
+            "You want to know something, love? Sometimes I question how I fell for a cat like you...",
+            "I never thought I'd be so lucky, I've always wanted a mate but, I didn't think it was going to be you, nor could I ever imagine how wonderful it would be.",
+            "You're perfect, I truly don't deserve you...",
+            "[You quickly press your nose into their cheek, t_c shuts their mouth and begins to purr.]",
+            "You ruin me, y_c."
         ]
     ],
     "stable_mate_50": [
@@ -7411,7 +7439,8 @@
         ],
         [
             "Ever since I met you, y_c, my life has been perfect. But, one day, I fear- no I dread the fact that it will end... I can't imagine my life without you and the thought of you being just out of my grasp terrifies me. It destroys me.",
-            "y_c, know this, I will fight, I will do whatever I can to protect you. That's a promise. I can't stand the thought of losing you and I'll make sure I'll do whatever I can to keep you safe, to keep you here with me. Nothing will tear us apart, not even Starclan itself."
+            "y_c, know this, I will fight, I will do whatever I can to protect you. That's a promise. I can't stand the thought of losing you and I'll make sure I'll do whatever I can to keep you safe, to keep you here with me.",
+            "Nothing will tear us apart, not even Starclan itself."
         ]
     ],
     "stable_mate_11": [
@@ -7433,9 +7462,14 @@
             "stable"
         ],
         [
-            "I tell you this, love, when I'm out of here, the whole of the territory will feel my wrath. I'm looking forward to having these kits, don't get me wrong- but, argh! I just wish they didn't slow me down... When our kittens are born, I'll train them to fight! So that way, we can go on patrols together!- Love, why are you looking at me like that? Was it something I said?",
+            "I tell you this, love, when I'm out of here, the whole of the territory will feel my wrath.",
+            "I'm looking forward to having these kits, don't get me wrong- but, argh! I just wish they didn't slow me down...",
+            "When our kittens are born, I'll train them to fight! So that way, we can go on patrols together!-",
+            "Love, why are you looking at me like that? Was it something I said?",
             "[You raise your eyebrow at them, your ears flattening.]",
-            "Oh, darling, I wasn't actually thinking about taking them outside the camp not to worry! But anyways, you'll be strong enough for the both of us! My mate, y_c, the fearsome warrior who will raise an army of terrifying balls of fluffy cuteness!"
+            "Oh, darling, I wasn't actually thinking about taking them outside the camp not to worry!",
+            "But anyways, you'll be strong enough for the both of us!",
+            "My mate, y_c, the fearsome warrior who will raise an army of terrifying balls of fluffy cuteness!"
         ]
     ],
     "introspective_mate_8": [
